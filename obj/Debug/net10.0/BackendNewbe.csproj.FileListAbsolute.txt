@@ -1,0 +1,14 @@
+C:\VisualCode\content\BackendNewbe\bin\Debug\net10.0\BackendNewbe.exe
+C:\VisualCode\content\BackendNewbe\bin\Debug\net10.0\BackendNewbe.deps.json
+C:\VisualCode\content\BackendNewbe\bin\Debug\net10.0\BackendNewbe.runtimeconfig.json
+C:\VisualCode\content\BackendNewbe\bin\Debug\net10.0\BackendNewbe.dll
+C:\VisualCode\content\BackendNewbe\bin\Debug\net10.0\BackendNewbe.pdb
+C:\VisualCode\content\BackendNewbe\obj\Debug\net10.0\BackendNewbe.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualCode\content\BackendNewbe\obj\Debug\net10.0\BackendNewbe.AssemblyInfoInputs.cache
+C:\VisualCode\content\BackendNewbe\obj\Debug\net10.0\BackendNewbe.AssemblyInfo.cs
+C:\VisualCode\content\BackendNewbe\obj\Debug\net10.0\BackendNewbe.csproj.CoreCompileInputs.cache
+C:\VisualCode\content\BackendNewbe\obj\Debug\net10.0\BackendNewbe.dll
+C:\VisualCode\content\BackendNewbe\obj\Debug\net10.0\refint\BackendNewbe.dll
+C:\VisualCode\content\BackendNewbe\obj\Debug\net10.0\BackendNewbe.pdb
+C:\VisualCode\content\BackendNewbe\obj\Debug\net10.0\BackendNewbe.genruntimeconfig.cache
+C:\VisualCode\content\BackendNewbe\obj\Debug\net10.0\ref\BackendNewbe.dll

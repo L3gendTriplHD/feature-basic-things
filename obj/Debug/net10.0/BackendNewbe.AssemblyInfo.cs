@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackendNewbe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8dfe507a4bf307a7240940e55ca6ec43d8db4eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9df12454e01386e514f62ab13a521a73da38503a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackendNewbe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackendNewbe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
